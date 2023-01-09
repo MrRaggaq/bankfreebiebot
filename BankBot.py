@@ -12,7 +12,7 @@ import pandas as pd
 
 
 if True:
-    bot = Bot(token = '5927090150:AAHp4yqZxQPCvWxz81AdrJ_dOPKJLteU2Ks')
+    bot = Bot(token = '5911708501:AAEQb4eMCorzrO601whwalTovvQmfttKo0A')
     #dp = Dispatcher(bot)
     storage = MemoryStorage()
     dp = Dispatcher(bot, storage=storage)
